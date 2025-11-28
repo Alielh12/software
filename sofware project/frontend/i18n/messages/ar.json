@@ -1,0 +1,82 @@
+{
+  "common": {
+    "welcome": "مرحباً",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "dashboard": "لوحة التحكم",
+    "appointments": "المواعيد",
+    "records": "السجلات",
+    "emergency": "طوارئ",
+    "chatbot": "المساعد الذكي",
+    "settings": "الإعدادات",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "submit": "إرسال",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "view": "عرض",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "search": "بحث",
+    "filter": "فلترة",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح"
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "loginTitle": "تسجيل الدخول إلى CareConnect",
+    "registerTitle": "إنشاء حساب جديد",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "loginSuccess": "تم تسجيل الدخول بنجاح",
+    "loginError": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+    "registerSuccess": "تم إنشاء الحساب بنجاح",
+    "registerError": "فشل إنشاء الحساب"
+  },
+  "appointments": {
+    "title": "المواعيد",
+    "newAppointment": "موعد جديد",
+    "scheduleAppointment": "حجز موعد",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "reason": "السبب",
+    "status": "الحالة",
+    "doctor": "الطبيب",
+    "patient": "المريض",
+    "notes": "ملاحظات",
+    "pending": "قيد الانتظار",
+    "confirmed": "مؤكد",
+    "completed": "مكتمل",
+    "cancelled": "ملغي",
+    "noAppointments": "لا توجد مواعيد"
+  },
+  "records": {
+    "title": "السجلات الطبية",
+    "diagnosis": "التشخيص",
+    "treatment": "العلاج",
+    "prescription": "الوصفة الطبية",
+    "viewRecord": "عرض السجل",
+    "noRecords": "لا توجد سجلات"
+  },
+  "dashboard": {
+    "student": {
+      "title": "لوحة تحكم الطالب",
+      "welcome": "أهلاً بعودتك"
+    },
+    "doctor": {
+      "title": "لوحة تحكم الطبيب"
+    },
+    "staff": {
+      "title": "لوحة تحكم الموظفين"
+    }
+  }
+}
+
