@@ -1,0 +1,82 @@
+{
+  "common": {
+    "welcome": "Bienvenue",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de bord",
+    "appointments": "Rendez-vous",
+    "records": "Dossiers",
+    "emergency": "Urgence",
+    "chatbot": "Assistant",
+    "settings": "Paramètres",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "submit": "Soumettre",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "loginTitle": "Connexion à CareConnect",
+    "registerTitle": "Créer un compte",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Vous n'avez pas de compte?",
+    "hasAccount": "Vous avez déjà un compte?",
+    "loginSuccess": "Connexion réussie",
+    "loginError": "Email ou mot de passe invalide",
+    "registerSuccess": "Compte créé avec succès",
+    "registerError": "Échec de l'inscription"
+  },
+  "appointments": {
+    "title": "Rendez-vous",
+    "newAppointment": "Nouveau rendez-vous",
+    "scheduleAppointment": "Prendre rendez-vous",
+    "date": "Date",
+    "time": "Heure",
+    "reason": "Raison",
+    "status": "Statut",
+    "doctor": "Docteur",
+    "patient": "Patient",
+    "notes": "Notes",
+    "pending": "En attente",
+    "confirmed": "Confirmé",
+    "completed": "Terminé",
+    "cancelled": "Annulé",
+    "noAppointments": "Aucun rendez-vous trouvé"
+  },
+  "records": {
+    "title": "Dossiers médicaux",
+    "diagnosis": "Diagnostic",
+    "treatment": "Traitement",
+    "prescription": "Prescription",
+    "viewRecord": "Voir le dossier",
+    "noRecords": "Aucun dossier trouvé"
+  },
+  "dashboard": {
+    "student": {
+      "title": "Tableau de bord étudiant",
+      "welcome": "Bon retour"
+    },
+    "doctor": {
+      "title": "Tableau de bord médecin"
+    },
+    "staff": {
+      "title": "Tableau de bord personnel"
+    }
+  }
+}
+
