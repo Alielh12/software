@@ -1,0 +1,84 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "appointments": "Appointments",
+    "records": "Records",
+    "emergency": "Emergency",
+    "chatbot": "Chatbot",
+    "settings": "Settings",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "loginTitle": "Login to CareConnect",
+    "registerTitle": "Create an Account",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginSuccess": "Login successful",
+    "loginError": "Invalid email or password",
+    "registerSuccess": "Account created successfully",
+    "registerError": "Registration failed"
+  },
+  "appointments": {
+    "title": "Appointments",
+    "newAppointment": "New Appointment",
+    "scheduleAppointment": "Schedule Appointment",
+    "date": "Date",
+    "time": "Time",
+    "reason": "Reason",
+    "status": "Status",
+    "doctor": "Doctor",
+    "patient": "Patient",
+    "notes": "Notes",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "noAppointments": "No appointments found"
+  },
+  "records": {
+    "title": "Medical Records",
+    "diagnosis": "Diagnosis",
+    "treatment": "Treatment",
+    "prescription": "Prescription",
+    "viewRecord": "View Record",
+    "noRecords": "No records found"
+  },
+  "dashboard": {
+    "student": {
+      "title": "Student Dashboard",
+      "welcome": "Welcome back"
+    },
+    "doctor": {
+      "title": "Doctor Dashboard",
+      "title": "Doctor Dashboard"
+    },
+    "staff": {
+      "title": "Staff Dashboard",
+      "title": "Staff Dashboard"
+    }
+  }
+}
+

@@ -1,0 +1,19 @@
+﻿# Node
+node_modules/
+*.log
+.next/
+.out/
+dist/
+# Python
+__pycache__/
+*.pyc
+.env
+.env.*
+# OS
+.DS_Store
+Thumbs.db
+# Prisma
+backend/prisma/dev.db
+# Local overrides
+.vscode/
+.idea/
