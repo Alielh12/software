@@ -58,5 +58,11 @@ router.post(
   authController.refreshToken
 );
 
+// Get current user (from HttpOnly cookie)
+router.get("/me", authController.me.bind(authController));
+
+// Logout (clear cookie)
+router.post("/logout", authController.logout.bind(authController));
+
 export { router as authRoutes };
 
